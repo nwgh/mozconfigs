@@ -1,2 +1,3 @@
+mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-ff-dbg
 ac_add_options --enable-debug
 ac_add_options --disable-optimize

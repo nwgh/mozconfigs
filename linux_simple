@@ -1,1 +1,2 @@
 . $MOZCONFIG_ROOT/base
+. $MOZCONFIG_ROOT/opt
