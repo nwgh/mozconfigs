@@ -1,2 +1,2 @@
-. base
-. debug
+. $MOZCONFIG_ROOT/base
+. $MOZCONFIG_ROOT/debug

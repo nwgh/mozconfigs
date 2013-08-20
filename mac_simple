@@ -1,2 +1,2 @@
-. clang
-. base
+. $MOZCONFIG_ROOT/clang
+. $MOZCONFIG_ROOT/base

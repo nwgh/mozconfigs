@@ -1,3 +1,3 @@
-. base
-. debug
-. windows_common
+. $MOZCONFIG_ROOT/base
+. $MOZCONFIG_ROOT/debug
+. $MOZCONFIG_ROOT/windows_common
