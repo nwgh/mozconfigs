@@ -1,0 +1,2 @@
+ac_add_options --disable-webgl
+ac_add_options --disable-gamepad

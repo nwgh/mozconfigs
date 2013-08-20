@@ -1,0 +1,2 @@
+CC='/usr/bin/clang -fcolor-diagnostics'
+CXX='/usr/bin/clang++ -fcolor-diagnostics'
