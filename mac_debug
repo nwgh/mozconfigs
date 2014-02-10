@@ -1,3 +1,4 @@
 . $MOZCONFIG_ROOT/clang
 . $MOZCONFIG_ROOT/base
 . $MOZCONFIG_ROOT/debug
+ac_add_options --with-ccache=/usr/local/bin/ccache
