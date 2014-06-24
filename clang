@@ -1,2 +1,2 @@
-CC='/usr/bin/clang -fcolor-diagnostics'
-CXX='/usr/bin/clang++ -fcolor-diagnostics'
+CC='/usr/local/clang/current/bin/clang -fcolor-diagnostics'
+CXX='/usr/local/clang/current/bin/clang++ -fcolor-diagnostics'
