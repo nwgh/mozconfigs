@@ -2,3 +2,6 @@
 . $MOZCONFIG_ROOT/base
 . $MOZCONFIG_ROOT/debug
 ac_add_options --with-ccache=/usr/local/bin/ccache
+ac_add_options --with-macos-sdk=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+CFLAGS="-Wno-error=inline-new-delete"
+CXXFLAGS="-Wno-error=inline-new-delete"
