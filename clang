@@ -1,2 +1,3 @@
 CC='/usr/local/clang/current/bin/clang -fcolor-diagnostics'
 CXX='/usr/local/clang/current/bin/clang++ -fcolor-diagnostics'
+ac_add_options --enable-clang-plugin
