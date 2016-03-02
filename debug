@@ -1,2 +1,2 @@
-mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-ff-dbg
+mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-ff-dbg-${NWH_ZSH_CONFIG}
 ac_add_options --enable-debug
