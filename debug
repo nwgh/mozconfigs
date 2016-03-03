@@ -1,2 +1,2 @@
-mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-ff-dbg-${NWH_ZSH_CONFIG}
+mk_add_options MOZ_OBJDIR=${HOME}/src/mozilla/gecko-obj/dbg
 ac_add_options --enable-debug
