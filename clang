@@ -1,5 +1,6 @@
-CC='/usr/local/clang/current/bin/clang -fcolor-diagnostics'
-CXX='/usr/local/clang/current/bin/clang++ -fcolor-diagnostics'
+CC="/usr/local/clang/current/bin/clang"
+CXX="/usr/local/clang/current/bin/clang++"
+
 if [[ "${NWH_ZSH_CONFIG}" = "osx" ]] ; then
     ac_add_options --enable-clang-plugin
 fi
