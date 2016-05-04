@@ -1,0 +1,8 @@
+case "$(uname)" in
+    "Linux")
+        source "${MOZCONFIG_ROOT}/linux_${MOZCONFIG_SUFFIX}"
+        ;;
+    "Darwin")
+        source "${MOZCONFIG_ROOT}/mac_${MOZCONFIG_SUFFIX}"
+        ;;
+esac
