@@ -1,3 +1,1 @@
-export CFLAGS=-Qunused-arguments
-export CPPFLAGS=-Qunused-arguments
 ac_add_options --with-ccache=/usr/local/bin/ccache
