@@ -1,2 +1,2 @@
-CC="/usr/local/clang/current/bin/clang"
-CXX="/usr/local/clang/current/bin/clang++"
+CC="${HOME}/.local/clang/current/bin/clang"
+CXX="${HOME}/.local/clang/current/bin/clang++"
