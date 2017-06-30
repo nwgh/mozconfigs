@@ -1,2 +1,1 @@
 ac_add_options --with-ccache=/usr/local/bin/ccache
-ac_add_options --enable-rust
