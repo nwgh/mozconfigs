@@ -1,3 +1,4 @@
+. $MOZCONFIG_ROOT/linux_common
 . $MOZCONFIG_ROOT/clang
 . $MOZCONFIG_ROOT/base
 . $MOZCONFIG_ROOT/debug
