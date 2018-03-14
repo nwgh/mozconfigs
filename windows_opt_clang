@@ -1,0 +1,2 @@
+. "$MOZCONFIG_ROOT/clang_cl"
+. "$MOZCONFIG_ROOT/windows_opt"
