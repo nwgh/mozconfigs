@@ -1,5 +1,5 @@
 mk_add_options AUTOCLOBBER=1
 ac_add_options --enable-warnings-as-errors
-if [ -f $HOME/.mozconfig.local ] ; then
-    . $HOME/.mozconfig.local
+if [ -f "$HOME/.mozconfig.local" ] ; then
+    . "$HOME/.mozconfig.local"
 fi
