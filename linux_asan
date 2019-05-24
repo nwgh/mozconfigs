@@ -1,5 +1,4 @@
 . $MOZCONFIG_ROOT/linux_common
-. $MOZCONFIG_ROOT/clang
 . $MOZCONFIG_ROOT/base
 . $MOZCONFIG_ROOT/asan
 ac_add_options --disable-elf-hack
