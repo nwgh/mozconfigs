@@ -1,2 +1,2 @@
-ac_add_options --with-ccache=/usr/local/bin/ccache
+ac_add_options --with-ccache=$HOME/.cargo/bin/sccache
 mk_add_options "export RUSTC_WRAPPER=$HOME/.cargo/bin/sccache"
